@@ -1,0 +1,5 @@
+{
+    "proxychains-path": "/etc/proxychains.conf",
+    "auto-update": "1",
+    "max-proxys": "20"
+}
